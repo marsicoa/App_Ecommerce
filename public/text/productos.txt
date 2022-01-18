@@ -1,0 +1,1 @@
+[{"title":"Tafirol 600mg  10x10","price":"251.54","thumbnail":"http://tafirol.com","id":1},{"title":"Ibuprofeno 600mg 10x10","price":"983","thumbnail":"http://ibu.com","id":2},{"title":"Amoxicilina 600mg x20","price":"674.23","thumbnail":"http://amoxi.com","id":3}]
